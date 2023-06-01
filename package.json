@@ -1,9 +1,9 @@
 {
   "name": "@xiangnanscu/vite-plugin-alioss",
   "sourceType": "module",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "upload your vite assets to aliyun oss",
-  "main": "index.mjs",
+  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
